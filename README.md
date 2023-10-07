@@ -1,4 +1,4 @@
-# Workshop-Web-Retrieval-and-Web-Scraping
+# Workshop-Web-Retrieval-and-Scraping
 
 ![Logo](https://github.com/yashraj9011/Workshop-Web-Retrieval-and-Web-Scraping/blob/main/WRS_Workshop.png)
 
