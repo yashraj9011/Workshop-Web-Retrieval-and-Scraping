@@ -1,6 +1,6 @@
 # Workshop-Web-Retrieval-and-Web-Scraping
 
-![Logo] 
+![Logo](https://github.com/yashraj9011/Workshop-Web-Retrieval-and-Web-Scraping/blob/main/WRS_Workshop.png)
 
 ## Introduction Morning Session
 - Speaker addressed to students by introducing their profile and the domain they are working in .
