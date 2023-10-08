@@ -250,7 +250,7 @@ video = requests.get('http://www.howtowebscrape.com/examples/media/images/BigRab
 
 
 ```python
-with open('Bigrabbit (1).mp4','wb') as file:
+with open('Bigrabbit.mp4','wb') as file:
     for chunk in video.iter_content(chunk_size=1024):
         file.write(chunk)
 ```
@@ -265,7 +265,7 @@ url = "https://www.imdb.com/chart/top/"
 from IPython.display import HTML
 
 # Replace 'video_path.mp4' with the path to your video file
-video_path = 'Bigrabbit (1).mp4'
+video_path = 'Bigrabbit.mp4'
 
 # Create HTML code to display the video
 video_html = f'<video controls src="{video_path}" width="400"></video>'
@@ -278,7 +278,7 @@ HTML(video_html)
 
 
 
-<video controls src="Bigrabbit (1).mp4" width="400"></video>
+<video controls src="Bigrabbit.mp4" width="400"></video>
 
 
 
