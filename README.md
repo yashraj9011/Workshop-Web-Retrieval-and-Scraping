@@ -6,7 +6,11 @@
 - Speaker addressed to students by introducing their profile and the domain they are working in .
 - He Started from Computer Networking basics , how data flows in the systems .
 - Idea about what is web scraping , its need and how it is done in the industry .
+## After Session 
 
+- We did in detail implementation .
+- Crawling Webpages , Calculating PageRank , Concurrent Web Scraping .
+- 
 ## Implementation in Jupyter Notebook 
 
 # Importing Libraries Required
@@ -1704,12 +1708,8 @@ print("Crawling completed.")
 
 
 ```python
-
+End
 ```
 
-
-```python
-
-```
 
 
