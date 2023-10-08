@@ -10,8 +10,8 @@
 
 - We did in detail implementation .
 - Crawling Webpages , Calculating PageRank , Concurrent Web Scraping .
-- 
-## Implementation in Jupyter Notebook 
+  
+# Implementation in Jupyter Notebook 
 
 # Importing Libraries Required
 
