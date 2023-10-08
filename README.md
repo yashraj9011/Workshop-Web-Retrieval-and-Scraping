@@ -8,7 +8,5 @@
 - Idea about what is web scraping , its need and how it is done in the industry .
 
 ## Implementation in Jupyter Notebook 
-<iframe src="Workshop on Web Scraping.html" width="100%" height="500px"></iframe>
 
-
-## 
+![Logo](.py)
