@@ -9,4 +9,4 @@
 
 ## Implementation in Jupyter Notebook 
 
-![Logo](.py)
+
