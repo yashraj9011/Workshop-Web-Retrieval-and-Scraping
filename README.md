@@ -8,6 +8,7 @@
 - Idea about what is web scraping , its need and how it is done in the industry .
 
 ## Implementation in Jupyter Notebook 
-- We first retrieved the data from the web which was in HTML format .
+-<iframe src="download.html" width="100%" height="500px"></iframe>
+
 
 ## 
