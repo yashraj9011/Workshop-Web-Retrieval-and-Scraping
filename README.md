@@ -11,7 +11,7 @@
 
 <script>
     // Replace 'your_md_file.md' with the path to your Markdown file
-    const mdFilePath = 'Web Scraping and Rtrieval.md';
+    const mdFilePath = 'Workshop on Web Scraping.md';
 
     // Fetch the Markdown file
     fetch(mdFilePath)
