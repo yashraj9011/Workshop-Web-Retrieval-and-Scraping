@@ -9,4 +9,25 @@
 
 ## Implementation in Jupyter Notebook 
 
+<script>
+    // Replace 'your_md_file.md' with the path to your Markdown file
+    const mdFilePath = 'Web Scraping and Rtrieval.md';
+
+    // Fetch the Markdown file
+    fetch(mdFilePath)
+        .then(response => response.text())
+        .then(mdText => {
+            // Convert Markdown to HTML using showdown.js
+            const converter = new showdown.Converter();
+            const htmlContent = converter.makeHtml(mdText);
+
+            // Display the HTML content in the designated element
+            document.getElementById('markdown-content').innerHTML = htmlContent;
+        })
+        .catch(error => {
+            console.error('Error fetching the Markdown file:', error);
+        });
+</script>
+
+
 
