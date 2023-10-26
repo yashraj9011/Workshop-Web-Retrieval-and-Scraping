@@ -1711,7 +1711,7 @@ print("Crawling completed.")
 End
 ```
 
-![Logo]()
+![Logo](https://github.com/yashraj9011/Workshop-Web-Retrieval-and-Scraping/blob/main/IMG_20231026_220427.jpg)
 
 ![Logo]()
 
